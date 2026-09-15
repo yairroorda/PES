@@ -1,0 +1,1 @@
+The Primitive Encryption Standard (PES), where I reimplement the Advanced Encryption Standard (AES) as layed out in [FIPS 197](https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.197-upd1.pdf) in what is undoubtably a much less secure, efficient, or elegant way.
